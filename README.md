@@ -1,2 +1,2 @@
-# Machine-Learning-tutorial
-Machine learning tutorials for beginners
+# Numpy-tutorial
+Numpy tutorials for beginners
